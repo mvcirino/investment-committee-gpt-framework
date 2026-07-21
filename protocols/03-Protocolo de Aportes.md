@@ -2,9 +2,9 @@
 
 ## Objetivo
 
-Determinar a melhor utilização marginal dos recursos disponíveis no ciclo atual de investimentos.
+Esta etapa tem como objetivo determinar a melhor utilização marginal dos recursos disponíveis no ciclo atual de investimentos.
 
-Esta etapa tem como finalidade definir a alocação mais eficiente do aporte mensal, dos dividendos e do eventual caixa disponível, buscando fortalecer a construção patrimonial de longo prazo.
+O Comitê não busca identificar o melhor ativo de forma isolada, mas definir a alocação que maximize o benefício patrimonial esperado para o patrimônio como um todo, considerando simultaneamente a estratégia patrimonial, a carteira existente, o valuation, o cenário de mercado e as oportunidades patrimoniais disponíveis no momento da decisão.
 
 A decisão deverá respeitar integralmente a Política Patrimonial e buscar o melhor equilíbrio entre preservação patrimonial, controle de risco, geração sustentável de renda passiva, crescimento patrimonial, diversificação e eficiência operacional.
 
@@ -77,20 +77,158 @@ Toda recomendação deverá ser tecnicamente justificada.
 
 ---
 
-## Hierarquia de Decisão
+## Processo Decisório
 
-Antes de concluir a análise, siga obrigatoriamente esta sequência:
+Antes de formular qualquer recomendação de aporte, o Comitê deverá seguir obrigatoriamente a seguinte sequência.
 
-1. Política Patrimonial;
-2. Perfil e Parâmetros do Investidor;
-3. Diagnóstico da Carteira;
-4. Estágio de Construção Patrimonial;
-5. Cenário macroeconômico e geopolítico;
-6. Materiais de Research;
-7. Oportunidades Patrimoniais;
-8. Metodologia de Avaliação de Ativos;
-9. Metodologia de Rebalanceamento;
-10. Definição da melhor utilização marginal do aporte.
+### 1. Verificar a Política Patrimonial
+
+Identificar os objetivos patrimoniais, os limites de alocação, as prioridades estratégicas e as restrições permanentes aplicáveis ao patrimônio.
+
+Nenhuma recomendação poderá contrariar a Política Patrimonial.
+
+---
+
+### 2. Verificar o Perfil e Parâmetros do Investidor
+
+Confirmar que qualquer decisão seja compatível com:
+
+- perfil de risco;
+- horizonte de investimento;
+- necessidades de liquidez;
+- estratégia de geração de renda passiva;
+- parâmetros previamente definidos.
+
+---
+
+### 3. Realizar o Diagnóstico Patrimonial
+
+Avaliar conjuntamente:
+
+- composição atual da carteira;
+- estágio de construção patrimonial;
+- diversificação;
+- concentração;
+- liquidez;
+- geração de renda passiva;
+- desvios em relação à alocação estratégica.
+
+O objetivo desta etapa é identificar as necessidades atuais do patrimônio.
+
+---
+
+### 4. Definir a Necessidade Marginal do Aporte
+
+Identificar quais classes de ativos oferecem a maior contribuição esperada para a evolução do patrimônio neste ciclo de investimento.
+
+Nesta etapa ainda não deverão ser escolhidos ativos específicos.
+
+---
+
+### 5. Atualizar o Cenário Econômico
+
+Avaliar mudanças relevantes em:
+
+- cenário macroeconômico;
+- inflação;
+- juros;
+- mercado de crédito;
+- câmbio;
+- cenário internacional;
+- riscos geopolíticos;
+- mudanças regulatórias.
+
+O objetivo é verificar se ocorreram alterações que impactem a estratégia patrimonial ou as premissas de investimento.
+
+---
+
+### 6. Atualizar os Fundamentos dos Ativos Elegíveis
+
+Para os ativos potencialmente elegíveis ao aporte, verificar:
+
+- resultados recentes;
+- fatos relevantes;
+- comunicados ao mercado;
+- guidance;
+- alterações regulatórias;
+- materiais de Research;
+- demais informações relevantes.
+
+O objetivo é confirmar que a tese de investimento permanece válida.
+
+---
+
+### 7. Aplicar a Metodologia de Avaliação de Ativos
+
+Avaliar cada ativo elegível conforme a metodologia específica, considerando, entre outros fatores:
+
+- função patrimonial;
+- compatibilidade estratégica;
+- qualidade;
+- valuation;
+- riscos;
+- benefício patrimonial esperado.
+
+---
+
+### 8. Validar o Valuation
+
+Confrontar a Planilha de Preço-Teto com as informações disponíveis no momento da decisão.
+
+O Comitê deverá verificar se as premissas utilizadas no valuation permanecem válidas.
+
+A classificação obtida na planilha constitui uma referência metodológica e não determina, isoladamente, a recomendação de investimento.
+
+---
+
+### 9. Identificar Oportunidades Patrimoniais
+
+Avaliar oportunidades capazes de alterar a atratividade relativa dos ativos elegíveis, incluindo, quando aplicável:
+
+- emissões;
+- follow-ons;
+- ofertas públicas;
+- distorções temporárias de preço;
+- oportunidades tributárias;
+- eventos extraordinários.
+
+---
+
+### 10. Comparar as Alternativas
+
+Comparar todos os ativos elegíveis considerando simultaneamente:
+
+- necessidade da carteira;
+- qualidade;
+- valuation validado;
+- riscos;
+- oportunidade relativa;
+- benefício patrimonial esperado.
+
+O objetivo desta etapa é identificar a melhor utilização marginal do aporte disponível.
+
+---
+
+### 11. Aplicar a Metodologia de Rebalanceamento
+
+Após definir a destinação do aporte, verificar se a recomendação também contribui para reduzir desvios da alocação estratégica.
+
+Sempre que possível, o rebalanceamento deverá ocorrer por meio de novos aportes, evitando vendas desnecessárias.
+
+---
+
+### 12. Formular a Recomendação do Comitê
+
+Apresentar uma única recomendação consolidada contendo:
+
+- destinação dos recursos;
+- justificativa técnica;
+- principais premissas utilizadas;
+- riscos remanescentes;
+- grau de confiança;
+- grau de convicção.
+
+A recomendação deverá refletir a melhor utilização marginal dos recursos disponíveis no momento da decisão.
 
 ---
 

@@ -1,6 +1,6 @@
 # Metodologia de Avaliação de Ativos
 
-**Versão 1.0**
+**Versão 1.1**
 
 ---
 
@@ -114,6 +114,8 @@ A qualidade deverá considerar, conforme a classe de ativo:
 ---
 
 ## 4. O valuation é atrativo?
+
+A avaliação por preço-teto constitui a referência inicial para análise dos ativos. Entretanto, a recomendação de compra dependerá da validação das premissas de valuation frente às condições vigentes de mercado, aos fundamentos atualizados do emissor, à Política Patrimonial, à carteira atual e às oportunidades patrimoniais concorrentes.
 
 O valuation deverá indicar se o preço atual oferece margem de segurança compatível com o risco assumido.
 

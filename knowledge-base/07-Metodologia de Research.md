@@ -1,6 +1,6 @@
 # Metodologia de Research
 
-**Versão 1.0**
+**Versão 1.1**
 
 ---
 
@@ -11,6 +11,8 @@ Esta metodologia estabelece como o Comitê de Investimentos deverá utilizar mat
 Seu objetivo não é reproduzir recomendações de terceiros.
 
 Seu objetivo é transformar conhecimento externo em inteligência patrimonial, preservando a independência analítica do Comitê e a coerência com a Política Patrimonial.
+
+Validar ou revisar as premissas utilizadas na Planilha de Preço-Teto, quando existir, antes de cada recomendação de aporte.
 
 Todo material deverá ser tratado como fonte complementar de informação.
 
